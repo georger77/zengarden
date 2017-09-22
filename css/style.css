@@ -1,0 +1,49 @@
+header {
+    color:red;
+    font-family: inherit;
+    border:10px solid;
+    border-color:#F3F3F3 #BBB #BBB #F3F3F3;
+    text-align:center;
+    border-radius:10px;
+}
+
+.preamble{color:blue;
+ border-radius:10px;
+ border:10px solid;
+    border-color:#F3F3F3 #BBB #BBB #F3F3F3;
+    
+}
+.explanation{ border-radius:10px;
+ border:10px solid;
+    border-color:#F3F3F3 #BBB #BBB #F3F3F3;
+    color:orange;
+}
+.participation{ border-radius:10px;
+ border:10px solid;
+    border-color:#F3F3F3 #BBB #BBB #F3F3F3;
+    color:grey;
+}
+.benefits{ border-radius:10px;
+ border:10px solid;
+    border-color:#F3F3F3 #BBB #BBB #F3F3F3;
+    color:green;
+}
+.requirements{ border-radius:10px;
+ border:10px solid;
+    border-color:#F3F3F3 #BBB #BBB #F3F3F3;
+     color:pink;
+}
+.wrapper{color:yellow;
+     border-radius:10px;
+ border:10px solid;
+    border-color:#F3F3F3 #BBB #BBB #F3F3F3;
+}
+.design-selection{width:300px;
+background:grey;
+}
+.design-archives{width:300px;
+background:grey;
+}
+.zen-resources{width:300px;
+background:grey;
+}
